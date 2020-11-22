@@ -1,0 +1,23 @@
+@media all and (min-width: 480px) {
+    .Settings {
+      padding: 60px 0;
+    }
+} 
+
+.ProfilePic {
+  width: 250px;
+  height: 250px;
+}
+.likebutton {
+ 
+    background-color: #e7e7e7; /* Green */
+    border: none;
+    color: #777;
+    padding: 15px 32px;
+    text-align: center;
+    font-weight: bold;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+  
+}
