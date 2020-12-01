@@ -1,18 +1,18 @@
 ## Description
-Severless Social Media App using Lambda, API Gateway, DynamoDB and Cognito\
+Severless Social Media App using Lambda, API Gateway, DynamoDB and Cognito
 
 ### Features
 ALL V1, V2, V3 Features\
 
 Following functionality added, authentication fixing plus other bugs.\
 Notifications on follow and likes added.\
-New users can be created and interact with app without issues.\
+New users can be created and interact with app without issues.
 
 ## Current Feature list
-Posts, Profile Pictures, Likes/ Unlikes, Notifications, Following/unfollowing, Profiles, post feed\
+Posts, Profile Pictures, Likes/ Unlikes, Notifications, Following/unfollowing, Profiles, post feed
 
 ## Technology used
-React FrontEnd, Cognito authentication, API Gateway, DynamoDB, Lambda, S3\
+React FrontEnd, Cognito authentication, API Gateway, DynamoDB, Lambda, S3
 
 ## Issues
 Duplicate API requests on unlike\
