@@ -2,7 +2,7 @@
 Severless Social Media App using Lambda, API Gateway, DynamoDB and Cognito
 
 ### Features
-ALL V1, V2, V3 Features\
+ALL V1, V2, V3 Features
 
 Following functionality added, authentication fixing plus other bugs.\
 Notifications on follow and likes added.\
