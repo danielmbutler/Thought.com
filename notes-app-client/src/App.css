@@ -1,0 +1,29 @@
+.App {
+  margin-top: 15px;
+}
+
+.App .navbar-brand {
+  font-weight: bold;
+}
+
+#Bell {
+  margin-top: 15px;
+  
+}
+.dropdown {
+  display: inline-block;
+}
+
+.show {
+  display: inline-block !important;
+}
+.btn-success {
+  color: black !important;
+  background-color: #e7e7e7 !important;
+  border-color: #e7e7e7 !important;
+}
+
+.dropdown-item {
+  display: block;
+  padding: 10px;
+}

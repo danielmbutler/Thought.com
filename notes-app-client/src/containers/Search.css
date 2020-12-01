@@ -1,0 +1,9 @@
+@media all and (min-width: 480px) {
+    .Settings {
+      padding: 60px 0;
+    }
+} 
+
+listitem {
+    color: blue;
+}
